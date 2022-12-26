@@ -1,4 +1,4 @@
 const alert = document.querySelector('.alert-closable');
   alert.addEventListener('sl-after-hide', () => {
-    setTimeout(() => (alert.open = true), 2000);
+    setTimeout(() => (alert.open = true));
  });
