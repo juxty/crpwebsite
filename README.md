@@ -24,3 +24,7 @@ A full stack website for (**@CrimsonRoleplay**)
 
 - Add more integrations
 
+- Add Mobile Compat
+
+- Add Database Functions for `Sign in` & `Create an account`
+
